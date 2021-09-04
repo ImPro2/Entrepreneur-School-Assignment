@@ -65,6 +65,15 @@ section header {
     margin-bottom: 20px;
 }
 
+.almost-no-space {
+    margin-top: -80px;
+}
+
+.white-text {
+    color: aliceblue;
+    font-size: 25px;
+}
+
 .list {
     background-blend-mode: darken;
     background-color: aliceblue;
