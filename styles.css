@@ -76,7 +76,7 @@ section header {
     display: list-item;
 }
 
-section li:hover {
+.list:hover {
     background-color: #0b6bd8;
 }
 
