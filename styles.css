@@ -11,8 +11,8 @@ html {
 .element::-webkit-scrollbar { width: 0 !important }
 
 body {
-    background: #151D21;
-    background-image: url('images/background.png');
+    background: #131313;
+    background-image: url('images/logo.png');
     background-size: 100%;
     background-repeat: no-repeat;
     color: white;
