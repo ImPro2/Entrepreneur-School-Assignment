@@ -104,6 +104,10 @@ section nav {
     align-items: center;
 }
 
+.space-between-things {
+    margin-bottom: 50px;
+}
+
 section .mybutton {
     font-family: 'Roboto';
     font-size: 24px;
