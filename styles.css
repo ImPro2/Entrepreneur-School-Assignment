@@ -75,6 +75,7 @@ section header {
 }
 
 .list {
+    font-family: 'Roboto Thin';
     background-blend-mode: darken;
     background-color: aliceblue;
     text-align: left;
